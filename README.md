@@ -1,7 +1,8 @@
 ### 👋 Olá! Seja muito bem-vindo ao meu GitHub
 
 Me chamo Édamis — um curioso apaixonado por tecnologia e movido pela busca constante por aprendizado e evolução.
-💡 Sobre mim
+
+💡 Sobre mim:
 
 🛠️ Fascinado por entender como as tecnologias funcionam nos bastidores.
 
