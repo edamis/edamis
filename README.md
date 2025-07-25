@@ -3,11 +3,12 @@
 Me chamo Édamis — um curioso apaixonado por tecnologia e movido pela busca constante por aprendizado e evolução.
 💡 Sobre mim
 
-🌱 Sempre em crescimento: acreditando que o aprendizado nunca acaba.
-
 🛠️ Fascinado por entender como as tecnologias funcionam nos bastidores.
 
 🚀 Em busca de me tornar um profissional completo, contribuindo com soluções eficientes e escaláveis..
+
+🌱 Em constante evolução
+Este espaço é dedicado aos meus projetos, estudos e experimentos. Fique à vontade para explorar, contribuir ou trocar ideias!
 
 🔍 O que você vai encontrar por aqui?
 Exploro temas que despertam minha curiosidade e me desafiam a ir além. Alguns desses projetos estão disponíveis aqui no repositório — outros talvez estejam só nos bastidores (por enquanto 😎).
