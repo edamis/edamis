@@ -7,7 +7,7 @@ Me chamo Édamis — um curioso apaixonado por tecnologia e movido pela busca co
 
 🚀 Em busca de me tornar um profissional completo, contribuindo com soluções eficientes e escaláveis..
 
-🌱 Em constante evolução: 
+🌱 Em constante evolução!
 <p> Este espaço é dedicado aos meus projetos, estudos e experimentos. Fique à vontade para explorar, contribuir ou trocar ideias! </p>
 
 🔍 O que você vai encontrar por aqui?
